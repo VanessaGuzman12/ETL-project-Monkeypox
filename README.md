@@ -4,7 +4,6 @@ Project Name : Monkey Pox Virus
 
 
 Project Team : Vanessa Guzman
-
                Andy de Wind
 
 Purpose of the project: Extract , Transform and Load data in order to answer the following questions:
